@@ -9,18 +9,73 @@
 <br>
 
 # Web-Dasar-Dicoding-Aplus-Dessert
-<b>Website ini diciptakan sebagai upaya penyelesaian submission pada kursus Dicoding.</p>
+This website was created as an effort to complete the submission of the Dicoding course.
 
 <br>
 
-## Preview
-1. Header
-![Preview-1](https://user-images.githubusercontent.com/54527592/120961700-82de0480-c788-11eb-8bb3-5c44639ff3e0.png)<br>
+## Features / Framework / Tools
+| Part | Description |
+| --- | --- |
+| Code | HTML, CSS, & JS |
+| Tools | Visual Studio Code, XAMPP (PHP Version 5+) |
 
+<br><br>
 
-2. Body
-![Preview-2](https://user-images.githubusercontent.com/54527592/120961891-dbad9d00-c788-11eb-9d7f-e32af82c1d5b.png)<br>
+## Download & Install
+1.XAMPP with PHP version 7.4 :
+```bash
+https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+```
+2.Visual Studio Code :
+```bash
+https://code.visualstudio.com/docs/?dv=win
+```
 
+<br><br>
 
-3. Footer
-![Preview-3](https://user-images.githubusercontent.com/54527592/120961946-fed84c80-c788-11eb-85f2-6250acac3027.png)<br>
+## Running
+1.Download this repository.<br>
+2.Extract the downloaded file & rename the directory "Web-Dasar-Dicoding-Aplus-Dessert" to Aplus-Dessert.<br>
+3.Move the "Aplus-Dessert" directory into the htdocs directory, whose details you can find out as follows:
+```bash
+C:\xampp\htdocs
+```
+4.To access the website, open XAMPP, then start the Apache section.<br>
+5.Please open your browser by writing:
+```bash
+localhost/Aplus-Dessert/
+```
+6.Enjoy [Done].
+
+<br><br>
+
+## Highlights
+<table>
+<tr>
+<th width="420">Website Header Section</th>
+<th width="420">Website Footer Section</th>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/54527592/120961700-82de0480-c788-11eb-8bb3-5c44639ff3e0.png" alt="header"></td>
+<td><img src="https://user-images.githubusercontent.com/54527592/120961946-fed84c80-c788-11eb-85f2-6250acac3027.png" alt="footer"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="840">Website Body Section</th>
+</tr>
+<tr>
+<td><img src="https://github.com/devancakra/Web-Dasar-Dicoding-Aplus-Dessert/assets/54527592/e3122e99-14c9-4b4a-901a-226a777c8a0d" alt="body"></td>
+</tr>
+</table>
+
+<br><br>
+
+## LICENSE
+MIT License - Copyright (c) 2020 - Devan Cakra Mudra Wijaya
+
+Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
+
+The above copyright notice and this permission notice must accompany all copies or substantial portions of the Software.
+
+IN ANY EVENT, THE AUTHOR OR COPYRIGHT HOLDER HEREIN RETAINS FULL OWNERSHIP RIGHTS. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, THEREFORE IF ANY DAMAGE, LOSS, OR OTHERWISE ARISES FROM THE USE OR OTHER DEALINGS IN THE SOFTWARE, THE AUTHOR OR COPYRIGHT HOLDER SHALL NOT BE LIABLE, AS THE USE OF THE SOFTWARE IS NOT COMPELLED AT ALL, SO THE RISK IS YOUR OWN.
