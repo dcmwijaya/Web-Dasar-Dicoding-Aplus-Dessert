@@ -22,30 +22,27 @@ Website ini dibuat sebagai salah satu upaya untuk menyelesaikan tugas dari kursu
 <br><br>
 
 ## Unduh & Instal
-1.XAMPP dengan PHP versi 7.4 :
-```bash
-https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
-```
-2.Visual Studio Code :
-```bash
-https://code.visualstudio.com/docs/?dv=win
-```
+1. XAMPP dengan PHP versi 7.4 :<br><br>
+   ```bash
+   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+   ```
+2. Visual Studio Code :<br><br>
+   ```bash
+   https://code.visualstudio.com/docs/?dv=win
+   ```
 
 <br><br>
 
 ## Menjalankan
-1.Unduh repositori ini.<br>
-2.Ekstrak file yang diunduh & ganti nama direktori "Web-Dasar-Dicoding-Aplus-Dessert" menjadi Aplus-Dessert.<br>
-3.Pindahkan direktori "Aplus-Dessert" ke dalam direktori htdocs, yang rinciannya dapat Anda lihat sebagai berikut:
-```bash
-C:\xampp\htdocs
-```
-4.Untuk mengakses situs web, buka XAMPP, lalu mulai bagian Apache.<br>
-5.Silakan buka peramban Anda dengan menuliskan:
-```bash
-localhost/Aplus-Dessert/
-```
-6.Selamat menikmati [Selesai].
+1. Unduh repositori ini.<br><br>
+2. Ekstrak file yang diunduh & ganti nama direktori ``` Web-Dasar-Dicoding-Aplus-Dessert ``` menjadi ``` Aplus-Dessert ```.<br><br>
+3. Pindahkan direktori ``` Aplus-Dessert ``` ke dalam direktori htdocs, yang rinciannya dapat Anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br><br>
+4. Untuk mengakses situs web, buka XAMPP, lalu mulai bagian Apache.<br><br>
+5. Silakan buka peramban Anda dengan menuliskan:<br><br>
+   ```bash
+   localhost/Aplus-Dessert/
+   ```
+6. Selamat menikmati [Selesai].
 
 <br><br>
 
