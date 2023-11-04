@@ -22,30 +22,27 @@ This website was created as an effort to complete the submission of the Dicoding
 <br><br>
 
 ## Download & Install
-1.XAMPP with PHP version 7.4 :
-```bash
-https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
-```
-2.Visual Studio Code :
-```bash
-https://code.visualstudio.com/docs/?dv=win
-```
+1. XAMPP with PHP version 7.4 :<br><br>
+   ```bash
+   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+   ```
+2. Visual Studio Code :<br><br>
+   ```bash
+   https://code.visualstudio.com/docs/?dv=win
+   ```
 
 <br><br>
 
 ## Running
-1.Download this repository.<br>
-2.Extract the downloaded file & rename the directory "Web-Dasar-Dicoding-Aplus-Dessert" to Aplus-Dessert.<br>
-3.Move the "Aplus-Dessert" directory into the htdocs directory, whose details you can find out as follows:
-```bash
-C:\xampp\htdocs
-```
-4.To access the website, open XAMPP, then start the Apache section.<br>
-5.Please open your browser by writing:
-```bash
-localhost/Aplus-Dessert/
-```
-6.Enjoy [Done].
+1. Download this repository.<br><br>
+2. Extract the downloaded file & rename the directory ``` Web-Dasar-Dicoding-Aplus-Dessert ``` to ``` Aplus-Dessert ```.<br><br>
+3. Move the ``` Aplus-Dessert ``` directory into the htdocs directory, whose details you can find out as follows: ``` C:\xampp\htdocs ```.<br><br>
+4. To access the website, open XAMPP, then start the Apache section.<br><br>
+5. Please open your browser by writing:<br><br>
+   ```bash
+   localhost/Aplus-Dessert/
+   ```
+7. Enjoy [Done].
 
 <br><br>
 
