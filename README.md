@@ -26,6 +26,7 @@ This website was created as an effort to complete the submission of the Dicoding
    ```bash
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
+   <br>
 2. Visual Studio Code :<br><br>
    ```bash
    https://code.visualstudio.com/docs/?dv=win
