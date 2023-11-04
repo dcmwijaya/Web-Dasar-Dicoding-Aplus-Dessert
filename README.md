@@ -6,8 +6,6 @@
 ![CSS](https://img.shields.io/badge/CSS%20-light.svg?&style=flat&logo=css3&logoColor=%23F7DF1E&color=1E90FF)
 ![JS](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E&color=008080)
 
-<br>
-
 # Web-Dasar-Dicoding-Aplus-Dessert
 This website was created as an effort to complete the submission of the Dicoding course.
 
@@ -19,20 +17,22 @@ This website was created as an effort to complete the submission of the Dicoding
 | Code | HTML, CSS, & JS |
 | Tools | Visual Studio Code, XAMPP (PHP Version 5+) |
 
-<br><br>
+<br>
 
 ## Download & Install
-1. XAMPP with PHP version 7.4 :<br><br>
+1. XAMPP with PHP version 7.4 :
+
    ```bash
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
-   <br>
-2. Visual Studio Code :<br><br>
+   
+2. Visual Studio Code :
+   
    ```bash
    https://code.visualstudio.com/docs/?dv=win
    ```
 
-<br><br>
+<br>
 
 ## Running
 1. Download this repository.<br><br>
@@ -45,7 +45,7 @@ This website was created as an effort to complete the submission of the Dicoding
    ```
 7. Enjoy [Done].
 
-<br><br>
+<br>
 
 ## Highlights
 <table>
@@ -67,7 +67,7 @@ This website was created as an effort to complete the submission of the Dicoding
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ## LICENSE
 MIT License - Copyright (c) 2020 - Devan Cakra Mudra Wijaya
