@@ -39,7 +39,7 @@ Website ini dibuat sebagai salah satu upaya untuk menyelesaikan tugas dari kursu
 2. Ekstrak file yang diunduh & ganti nama direktori ``` Web-Dasar-Dicoding-Aplus-Dessert ``` menjadi ``` Aplus-Dessert ```.<br><br>
 3. Pindahkan direktori ``` Aplus-Dessert ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat Anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br><br>
 4. Untuk mengakses situs web, buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```.<br><br>
-5. Silakan buka peramban Anda dengan menuliskan:<br><br>
+5. Silakan buka ``` peramban ``` Anda dengan menuliskan:<br><br>
    ```bash
    localhost/Aplus-Dessert/
    ```
