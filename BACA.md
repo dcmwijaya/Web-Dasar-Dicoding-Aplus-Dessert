@@ -34,7 +34,7 @@ Website ini dibuat sebagai salah satu upaya untuk menyelesaikan tugas dari kursu
 
 <br>
 
-## Menjalankan
+## Memulai
 1. Unduh repositori ini.<br><br>
 2. Ekstrak file yang diunduh & ganti nama direktori ``` Web-Dasar-Dicoding-Aplus-Dessert ``` menjadi ``` Aplus-Dessert ```.<br><br>
 3. Pindahkan direktori ``` Aplus-Dessert ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat Anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br><br>
