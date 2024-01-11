@@ -11,7 +11,7 @@ This website was created as an effort to complete the submission of the Dicoding
 
 <br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Code | HTML, CSS, & JS |
