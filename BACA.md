@@ -11,7 +11,7 @@ Website ini dibuat sebagai salah satu upaya untuk menyelesaikan tugas dari kursu
 
 <br>
 
-## Fitur / Kerangka Kerja / Peralatan
+## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
 | Kode | HTML, CSS, & JS |
