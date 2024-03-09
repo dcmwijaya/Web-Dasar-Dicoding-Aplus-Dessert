@@ -9,7 +9,7 @@
 # Web-Dasar-Dicoding-Aplus-Dessert
 This website was created as an effort to complete the submission of the Dicoding course.
 
-<br>
+<br><br>
 
 ## Project Requirements
 | Part | Description |
@@ -17,7 +17,7 @@ This website was created as an effort to complete the submission of the Dicoding
 | Code | HTML, CSS, & JS |
 | Tools | Visual Studio Code, XAMPP (PHP Version 5+) |
 
-<br>
+<br><br>
 
 ## Download & Install
 1. XAMPP with PHP version 7.4
@@ -28,7 +28,7 @@ This website was created as an effort to complete the submission of the Dicoding
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
 
-   </td></tr></table>
+   </td></tr></table><br>
    
 2. Visual Studio Code
 
@@ -40,7 +40,7 @@ This website was created as an effort to complete the submission of the Dicoding
 
    </td></tr></table>
 
-<br>
+<br><br>
 
 ## Get Started
 1. Download this repository.<br><br>
@@ -50,7 +50,7 @@ This website was created as an effort to complete the submission of the Dicoding
 5. Please open your ``` browser ``` by writing: ``` localhost/Aplus-Dessert/ ```.<br><br>
 6. Enjoy [Done].
 
-<br>
+<br><br>
 
 ## Highlights
 <table>
@@ -72,12 +72,12 @@ This website was created as an effort to complete the submission of the Dicoding
 </tr>
 </table>
 
-<br>
+<br><br>
 
 ## Appreciation
 If you find this work useful, please support it as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
 
-<br>
+<br><br>
 
 ## LICENSE
 MIT License - Copyright © 2020 - Devan Cakra Mudra Wijaya
