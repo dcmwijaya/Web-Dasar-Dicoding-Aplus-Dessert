@@ -47,16 +47,7 @@ This website was created as an effort to complete the submission of the Dicoding
 2. Extract the downloaded file & rename the directory ``` Web-Dasar-Dicoding-Aplus-Dessert ``` to ``` Aplus-Dessert ```.<br><br>
 3. Move the ``` Aplus-Dessert ``` directory into the ``` htdocs ``` directory, whose details you can find out as follows: ``` C:\xampp\htdocs ```.<br><br>
 4. To access the website, open ``` XAMPP ```, then start the ``` Apache ``` section.<br><br>
-5. Please open your ``` browser ``` by writing:
-
-   <table><tr><td width="810">
-      
-   ```
-   localhost/Aplus-Dessert/
-   ```
-
-   </td></tr></table>
-   
+5. Please open your ``` browser ``` by writing: ``` localhost/Aplus-Dessert/ ```.<br><br>
 6. Enjoy [Done].
 
 <br>
