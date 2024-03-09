@@ -22,15 +22,23 @@ This website was created as an effort to complete the submission of the Dicoding
 ## Download & Install
 1. XAMPP with PHP version 7.4 :
 
-   ```bash
+   <table><tr><td width="810">
+
+   ```
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
+
+   </td></tr></table>
    
 2. Visual Studio Code :
+
+   <table><tr><td width="810">
    
-   ```bash
+   ```
    https://code.visualstudio.com/docs/?dv=win
    ```
+
+   </td></tr></table>
 
 <br>
 
@@ -39,11 +47,17 @@ This website was created as an effort to complete the submission of the Dicoding
 2. Extract the downloaded file & rename the directory ``` Web-Dasar-Dicoding-Aplus-Dessert ``` to ``` Aplus-Dessert ```.<br><br>
 3. Move the ``` Aplus-Dessert ``` directory into the ``` htdocs ``` directory, whose details you can find out as follows: ``` C:\xampp\htdocs ```.<br><br>
 4. To access the website, open ``` XAMPP ```, then start the ``` Apache ``` section.<br><br>
-5. Please open your ``` browser ``` by writing:<br><br>
-   ```bash
+5. Please open your ``` browser ``` by writing:
+
+   <table><tr><td width="810">
+      
+   ```
    localhost/Aplus-Dessert/
    ```
-7. Enjoy [Done].
+
+   </td></tr></table>
+   
+6. Enjoy [Done].
 
 <br>
 
