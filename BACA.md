@@ -9,7 +9,7 @@
 # Web-Dasar-Dicoding-Aplus-Dessert
 Website ini dibuat sebagai salah satu upaya untuk menyelesaikan tugas dari kursus Dicoding.
 
-<br>
+<br><br>
 
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
@@ -17,35 +17,40 @@ Website ini dibuat sebagai salah satu upaya untuk menyelesaikan tugas dari kursu
 | Kode | HTML, CSS, & JS |
 | Peralatan | Visual Studio Code, XAMPP (PHP Versi 5+) |
 
-<br>
+<br><br>
 
 ## Unduh & Instal
-1. XAMPP dengan PHP versi 7.4 :
-   
-   ```bash
+1. XAMPP with PHP version 7.4
+
+   <table><tr><td width="810">
+
+   ```
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
+
+   </td></tr></table><br>
    
-2. Visual Studio Code :
+2. Visual Studio Code
+
+   <table><tr><td width="810">
    
-   ```bash
+   ```
    https://code.visualstudio.com/docs/?dv=win
    ```
 
-<br>
+   </td></tr></table>
+
+<br><br>
 
 ## Memulai
 1. Unduh repositori ini.<br><br>
 2. Ekstrak file yang diunduh & ganti nama direktori ``` Web-Dasar-Dicoding-Aplus-Dessert ``` menjadi ``` Aplus-Dessert ```.<br><br>
 3. Pindahkan direktori ``` Aplus-Dessert ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br><br>
 4. Untuk mengakses situs web, buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```.<br><br>
-5. Silakan buka ``` peramban ``` anda dengan menuliskan:<br><br>
-   ```bash
-   localhost/Aplus-Dessert/
-   ```
+5. Silakan buka ``` peramban ``` anda dengan menuliskan: ``` localhost/Aplus-Dessert/ ```.<br><br>
 6. Selamat menikmati [Selesai].
 
-<br>
+<br><br>
 
 ## Sorotan
 <table>
@@ -67,7 +72,12 @@ Website ini dibuat sebagai salah satu upaya untuk menyelesaikan tugas dari kursu
 </tr>
 </table>
 
-<br>
+<br><br>
+
+## Apresiasi
+Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
+
+<br><br>
 
 ## LISENSI 
 LISENSI MIT - Hak Cipta © 2020 - Devan Cakra Mudra Wijaya
