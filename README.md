@@ -20,7 +20,7 @@ This website was created as an effort to complete the submission of the Dicoding
 <br>
 
 ## Download & Install
-1. XAMPP with PHP version 7.4 :
+1. XAMPP with PHP version 7.4
 
    <table><tr><td width="810">
 
@@ -30,7 +30,7 @@ This website was created as an effort to complete the submission of the Dicoding
 
    </td></tr></table>
    
-2. Visual Studio Code :
+2. Visual Studio Code
 
    <table><tr><td width="810">
    
