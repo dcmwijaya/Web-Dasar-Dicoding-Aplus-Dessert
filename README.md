@@ -7,7 +7,7 @@
 ![JS](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E&color=008080)
 
 # Web-Dasar-Dicoding-Aplus-Dessert
-Dicoding Assignment Submission
+<strong>Dicoding Assignment Submission</strong><br>
 Learn Basic Web Programming.
 
 <br><br>
