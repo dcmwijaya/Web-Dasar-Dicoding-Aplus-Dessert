@@ -7,7 +7,8 @@
 ![JS](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E&color=008080)
 
 # Web-Dasar-Dicoding-Aplus-Dessert
-Website ini dibuat sebagai salah satu upaya untuk menyelesaikan tugas dari kursus Dicoding.
+<strong>Penyerahan Tugas Dicoding</strong><br>
+Belajar Dasar Pemrograman Web.
 
 <br><br>
 
