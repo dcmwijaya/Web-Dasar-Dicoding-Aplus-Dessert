@@ -7,7 +7,8 @@
 ![JS](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E&color=008080)
 
 # Web-Dasar-Dicoding-Aplus-Dessert
-This website was created as an effort to complete the submission of the Dicoding course.
+Dicoding Assignment Submission
+Learn Basic Web Programming.
 
 <br><br>
 
